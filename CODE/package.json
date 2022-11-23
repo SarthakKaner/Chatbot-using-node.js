@@ -13,6 +13,6 @@
     "jquery": "^3.5.1",
     "natural": "^2.1.5",
     "node-nlp": "^4.9.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
