@@ -9,7 +9,7 @@
   "author": "sarthak kaner",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.5.1",
     "natural": "^2.1.5",
     "node-nlp": "^4.9.2",
